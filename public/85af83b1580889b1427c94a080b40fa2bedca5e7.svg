@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Social icon" clip-path="url(#clip0_2003_35)">
+<path id="Vector" d="M24 11.6455C24 5.01809 18.6274 -0.354492 12 -0.354492C5.37258 -0.354492 0 5.01809 0 11.6455C0 17.635 4.3882 22.5995 10.125 23.4997V15.1143H7.07812V11.6455H10.125V9.00176C10.125 5.99426 11.9166 4.33301 14.6576 4.33301C15.9701 4.33301 17.3438 4.56738 17.3438 4.56738V7.52051H15.8306C14.34 7.52051 13.875 8.44559 13.875 9.39551V11.6455H17.2031L16.6711 15.1143H13.875V23.4997C19.6118 22.5995 24 17.635 24 11.6455Z" fill="var(--fill-0, #98A2B3)"/>
+</g>
+<defs>
+<clipPath id="clip0_2003_35">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

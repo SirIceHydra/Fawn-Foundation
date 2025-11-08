@@ -1,0 +1,49 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+}
+
+/* Section spacing */
+section {
+  padding: 5rem 0;
+  width: 100%;
+  position: relative;
+}
+
+/* Hero section has its own padding */
+section.hero,
+section.section-hero {
+  padding: 0;
+}
+
+/* Section animations will be handled individually */
+
+@media (max-width: 968px) {
+  section {
+    padding: 4rem 0;
+  }
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 3rem 0;
+  }
+
+  section.hero {
+    padding: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  section {
+    padding: 2.5rem 0;
+  }
+}
+
