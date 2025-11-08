@@ -1,9 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import './Footer.css'
 
-// Image assets
-const imgLogo = '/logo.png'
-
 const Footer = () => {
   const [isVisible, setIsVisible] = useState(false)
   const ref = useRef<HTMLElement>(null)

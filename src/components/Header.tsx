@@ -3,7 +3,6 @@ import './Header.css'
 
 // Image assets
 const imgLogo = '/logo.png'
-const imgIcon = '/d9e344d92e305e5e8a5fe90bcf8513895716a493.svg'
 
 interface HeaderProps {
   isScrolled: boolean
